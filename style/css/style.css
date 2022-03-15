@@ -114,7 +114,7 @@ html{
 }
 
 .home-icon img{
-    width: 20px;
+    width: 30px;
 }
 
 .text {
@@ -146,10 +146,6 @@ html{
 .dangxuat-btn:hover {
     text-decoration: none;
     color: #fff;
-}
-
-#luottanghoa {
-    display: none;
 }
 
 
