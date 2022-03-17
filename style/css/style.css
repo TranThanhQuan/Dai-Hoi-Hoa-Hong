@@ -652,7 +652,7 @@ html{
 
 @media screen and (min-width: 680px) and (max-width: 850px){
     .wrapper{
-        background-image: url("./../img/bg-mob.png");
+        background-image: url("./../img/bg-mob.jpg");
         height: auto;
         background-size: 100%;
     }
@@ -810,7 +810,7 @@ html{
 @media screen and (max-width: 760px){
     
     .wrapper{
-        background-image: url("./../img/bg-mob.png");
+        background-image: url("./../img/bg-mob.jpg");
         height: auto;
         background-size: 100%;
     }
