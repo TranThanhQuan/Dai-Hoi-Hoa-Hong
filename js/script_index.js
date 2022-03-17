@@ -40,8 +40,8 @@ function getDataClient (){
             // loadDataClient();
         }
     });
+
     return;
-    
     $.getJSON('http://loanthe.gamota/spin/ajax_getDataClient', function(data) {
         
         console.log(data);
